@@ -39,7 +39,79 @@
 
 
 ### 미션 공개
-<추후 공개>
+
+<table>
+  <tr style="background-color:#FF0000">
+    <td style="text-align:center">
+      부문
+    </td>
+    <td style="text-align:center">
+      세부과제
+    </td>
+    <td style="text-align:center">
+   문제정의   
+    </td>
+    <td style="text-align:center">
+      주요 활용데이터
+    </td>
+    </tr>
+  <tr style="background-color:#fff">
+    <td style="text-align:center">
+      정책활용부문
+    </td>
+    <td style="text-align:center">
+      주택시장 분석
+    </td>
+    <td style="text-align:center">
+실거래가 및 인구이동 정보등을 결합·분석하여 주거 안정을 위한 정책제언 도출 (주택 매매 및 전월세 가격 안정화, 주택가격 담합지역 탐지, 생애단계별 맞춤형 주거지원을 위한 지표 도출 등)
+    </td>
+    <td style="text-align:center">
+      - 아파트매매 실거래가
+      - 전월세 확정일자
+      - 공동주택가격정보서비스 
+      - 시군구별 전출입 지역
+    </td>   
+  </tr>
+  
+  <tr style="background-color:#fff">
+  <td style="text-align:center">
+      정책활용부문
+    </td>
+    <td style="text-align:center">
+      생활교통 
+개선
+    </td>
+    <td style="text-align:center">
+      국민의 삶의 질을 높이는 사람중심의 교통정책 추진 방안 도출 (교통안전 제고, 교통혼잡 개선, 공공 교통서비스 개선, 교통비 절감, 지역간·계층간 형평성 제고, 교통약자 이동편의 증진)
+    </td>
+    <td style="text-align:center">
+      - DTG(디지털운행기록)
+    - 위험운전행동분석
+- 지점별 속도 및 교통량 
+- 교통소통정보, 사고정보
+- 교통카드 빅데이터
+- 민간데이터(내비게이션, 통신자료 협의 중)
+    </td>   
+  </tr>
+
+  <tr style="background-color:#fff">
+  <td style="text-align:center">
+      산업활용부문
+    </td>
+    <td style="text-align:center">
+      데이터를 더욱 쓸모 있게
+    </td>
+    <td style="text-align:center">
+      데이터의 활용도를 높일 수 있는 재사용 가능한 프로그램 개발(크롤링, 분석, 시각화 모듈 등)
+    </td>
+    <td style="text-align:center">
+          - 개방데이터 활용도 상위 API 25개, 파일 25개
+    </td>   
+  </tr>
+
+</table>
+
+
 
 
 ## 참가 신청
