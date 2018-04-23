@@ -16,15 +16,12 @@
 <table>
   <tr style="background-color:#fff">
     <td style="text-align:center">
-      <img src="res/a.jpg" width="100"><br>
       국토연구원
     </td>
     <td style="text-align:center">
-      <img src="res/a.jpg"><br>
       한국교통연구원
     </td>
     <td style="text-align:center">
-      <img src="res/a.jpg"><br>
       한국교통안전공단
     </td>   
   </tr>
@@ -41,7 +38,7 @@
 ### 미션 공개
 
 <table>
-  <tr style="background-color:#FF0000">
+  <tr style="background-color:#FFFFE0;">
     <td style="text-align:center">
       부문
     </td>
@@ -55,7 +52,7 @@
       주요 활용데이터
     </td>
     </tr>
-  <tr style="background-color:#fff">
+  <tr >
     <td style="text-align:center">
       정책활용부문
     </td>
@@ -73,7 +70,7 @@
     </td>   
   </tr>
   
-  <tr style="background-color:#fff">
+  <tr >
   <td style="text-align:center">
       정책활용부문
     </td>
@@ -94,7 +91,7 @@
     </td>   
   </tr>
 
-  <tr style="background-color:#fff">
+  <tr >
   <td style="text-align:center">
       산업활용부문
     </td>
