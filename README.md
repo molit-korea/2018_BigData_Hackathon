@@ -40,24 +40,24 @@
 <table>
   <tr style="background-color:#FFFFE0;">
     <td style="text-align:center">
-      부문
+     <b> 부문</>
     </td>
     <td style="text-align:center">
-      세부과제
+      <b>세부과제</>
     </td>
     <td style="text-align:center">
-   문제정의   
+   <b>문제정의   </b>
     </td>
     <td style="text-align:center">
-      주요 활용데이터
+      <b>주요 활용데이터</b>
     </td>
     </tr>
   <tr >
     <td style="text-align:center">
-      정책활용부문
+      <b>정책활용부문</b>
     </td>
     <td style="text-align:center">
-      주택시장 분석
+      <b>주택시장 분석</b>
     </td>
     <td style="text-align:center">
 실거래가 및 인구이동 정보등을 결합·분석하여 주거 안정을 위한 정책제언 도출 (주택 매매 및 전월세 가격 안정화, 주택가격 담합지역 탐지, 생애단계별 맞춤형 주거지원을 위한 지표 도출 등)
@@ -72,11 +72,11 @@
   
   <tr >
   <td style="text-align:center">
-      정책활용부문
+      <b>정책활용부문</b>
     </td>
     <td style="text-align:center">
-      생활교통 
-개선
+      <b>생활교통 개선</b>
+
     </td>
     <td style="text-align:center">
       국민의 삶의 질을 높이는 사람중심의 교통정책 추진 방안 도출 (교통안전 제고, 교통혼잡 개선, 공공 교통서비스 개선, 교통비 절감, 지역간·계층간 형평성 제고, 교통약자 이동편의 증진)
@@ -93,10 +93,10 @@
 
   <tr >
   <td style="text-align:center">
-      산업활용부문
+     <b> 산업활용부문</b>
     </td>
     <td style="text-align:center">
-      데이터를 더욱 쓸모 있게
+      <b>데이터를 더욱 쓸모 있게</b>
     </td>
     <td style="text-align:center">
       데이터의 활용도를 높일 수 있는 재사용 가능한 프로그램 개발(크롤링, 분석, 시각화 모듈 등)
