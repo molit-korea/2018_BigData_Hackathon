@@ -63,7 +63,7 @@
       <b>정책활용부문</b>
     </td>
     <td style="text-align:center">
-      <b>주택시장 <br> 분석</b>
+      <b>주택시장 <br>    <td style="text-align:center"> 분석 </b>
     </td>
     <td style="text-align:center">
 실거래가 및 인구이동 정보등을 결합·분석하여 주거 안정을 위한 정책제언 도출 <br>
