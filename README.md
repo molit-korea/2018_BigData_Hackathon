@@ -33,6 +33,10 @@
     </td>
     <td style="text-align:center"> 
       국토교통과학기술진흥원
+    </td>
+    <td style="text-align:center">       
+    KT 
+    </td>
   </tr>
 </table>
 
