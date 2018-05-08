@@ -66,10 +66,10 @@ KT 
     </tr>
   <tr >
     <td style="text-align:center">
-      <b>정책활용부문</b>
+ <b>정책활용부문</b>
     </td>
     <td style="text-align:center">
-      <b>주택시장 분석 </b>
+<b>주택시장분석</b>
     </td>
     <td style="text-align:center">
 실거래가 및 인구이동 정보등을 결합·분석하여 주거 안정을 위한 정책제언 도출 <br>
@@ -85,10 +85,10 @@ KT 
   
   <tr >
   <td style="text-align:center">
-      <b>정책활용부문</b>
+ <b>정책활용부문</b>
     </td>
     <td style="text-align:center">
-      <b>생활교통 개선</b>
+<b>생활교통 개선</b>
     </td>
     <td style="text-align:center">
       국민의 삶의 질을 높이는 사람중심의 교통정책 추진 방안 도출 <br>
