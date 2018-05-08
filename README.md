@@ -57,7 +57,7 @@ KT 
     <td style="text-align:center">
 <b>세부과제</>
     </td>
-    <td style="text-align:center">
+<td style="text-align:center">
 <b>문제정의</b>
     </td>
     <td style="text-align:center">
@@ -66,7 +66,7 @@ KT 
     </tr>
   <tr >
     <td style="text-align:center">
- <b>정책활용부문</b>
+<b>정책활용부문</b>
     </td>
     <td style="text-align:center">
 <b>주택시장분석</b>
@@ -85,7 +85,7 @@ KT 
   
   <tr >
   <td style="text-align:center">
- <b>정책활용부문</b>
+<b>정책활용부문</b>
     </td>
     <td style="text-align:center">
 <b>생활교통개선</b>
@@ -106,10 +106,10 @@ KT 
 
   <tr >
   <td style="text-align:center">
-     <b> 산업활용부문</b>
+<b>산업활용부문</b>
     </td>
     <td style="text-align:center">
-      <b>데이터를 더욱 쓸모 있게</b>
+<b>데이터를 더욱 쓸모 있게</b>
     </td>
     <td style="text-align:center">
       데이터의 활용도를 높일 수 있는 재사용 가능한 프로그램 개발(크롤링, 분석, 시각화 모듈 등)
