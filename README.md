@@ -23,19 +23,19 @@
 <table>
   <tr style="background-color:#fff">
     <td style="text-align:center">
-      국토연구원
+국토연구원
     </td>
     <td style="text-align:center">
-      한국교통연구원
+한국교통연구원
     </td>
     <td style="text-align:center">
-      한국교통안전공단
+한국교통안전공단
     </td>
     <td style="text-align:center"> 
-      국토교통과학기술진흥원
+국토교통과학기술진흥원
     </td>
     <td style="text-align:center">       
-    KT 
+KT 
     </td>
   </tr>
 </table>
