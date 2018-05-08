@@ -52,16 +52,16 @@ KT 
 <table>
   <tr style="background-color:#FFFFE0;">
     <td style="text-align:center">
-     <b> 부문</>
+<b> 부문</>
     </td>
     <td style="text-align:center">
-      <b>세부과제</>
+<b>세부과제</>
     </td>
     <td style="text-align:center">
-   <b>문제정의   </b>
+<b>문제정의</b>
     </td>
     <td style="text-align:center">
-      <b>주요 활용데이터</b>
+      <b>주요 활용 데이터</b>
     </td>
     </tr>
   <tr >
@@ -88,7 +88,7 @@ KT 
  <b>정책활용부문</b>
     </td>
     <td style="text-align:center">
-<b>생활교통 개선</b>
+<b>생활교통개선</b>
     </td>
     <td style="text-align:center">
       국민의 삶의 질을 높이는 사람중심의 교통정책 추진 방안 도출 <br>
